@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorCompetition", "ElevatorCompetition\ElevatorCompetition.csproj", "{AC1C9E8F-AE07-4951-85BE-2A802650CA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleElevators", "SampleElevators\SampleElevators.csproj", "{8CB0B51B-B379-409D-9422-D95C99940022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorCompetition.Core", "ElevatorCompetition.Core\ElevatorCompetition.Core.csproj", "{D1659CCC-31DE-43DC-8BFD-4D79EB618369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1C9E8F-AE07-4951-85BE-2A802650CA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1C9E8F-AE07-4951-85BE-2A802650CA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1C9E8F-AE07-4951-85BE-2A802650CA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1C9E8F-AE07-4951-85BE-2A802650CA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB0B51B-B379-409D-9422-D95C99940022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB0B51B-B379-409D-9422-D95C99940022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB0B51B-B379-409D-9422-D95C99940022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB0B51B-B379-409D-9422-D95C99940022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1659CCC-31DE-43DC-8BFD-4D79EB618369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1659CCC-31DE-43DC-8BFD-4D79EB618369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1659CCC-31DE-43DC-8BFD-4D79EB618369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1659CCC-31DE-43DC-8BFD-4D79EB618369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
